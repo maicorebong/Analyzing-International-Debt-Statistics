@@ -1,0 +1,1 @@
+Focuses on analyzing international debt data from The World Bank, examining the total debt, identifying the highest debtor and their amount, and calculating the average debt across various indicators. The dataset includes debt information from developing countries worldwide from 1970 to 2015.
